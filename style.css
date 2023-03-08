@@ -217,10 +217,38 @@ main {
 
   .hero {
     border-radius: 30px;
-
+    width: 338px;
     height: 477px;
+    padding: 41px 53px;
     margin-bottom: 0;
     filter: drop-shadow(10px 5px 20px rgba(0, 0, 0, 0.25));
+    font-size: 20px;
+  }
+
+  /* Great */
+  .hero > p:nth-child(3) {
+    font-size: 30px;
+  }
+
+  /* "Your Result" */
+  .hero > p:nth-child(1) {
+    margin-bottom: 31px;
+  }
+
+  /* Your scored higher than 65%... */
+  .hero > p:nth-child(4) {
+    font-size: 17px;
+  }
+
+  .overall-score-container {
+    width: 185.45px;
+    height: 186px;
+    margin-bottom: 26px;
+  }
+
+  /* Great */
+  .hero > p:nth-child(3) {
+    margin-bottom: 14px;
   }
 
   .summary {
