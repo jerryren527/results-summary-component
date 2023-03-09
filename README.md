@@ -21,12 +21,13 @@ Mobile View:
 
 Desktop View:
 
-<img src='assets/images/2023-03-08-17-11-46.png' width='600'>
+<img src='assets/images/2023-03-09-10-22-10.png' width='600'>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://github.com/jerryren527/results-summary-component)
+- Live Site URL: [Link](https://jerryren527.github.io/results-summary-component)
+- Custom Figma File: [Link](https://www.figma.com/file/CoyaiGK65EDfxxG6gBsYqK/results-summary-component?node-id=0%3A1&t=ymMQQHLFnNxsrOfO-1)
 
 ### My process
 
@@ -47,7 +48,7 @@ To make a div element's width and height shrink proportionally to the screen's w
 ```css
 .overall-score-container {
   width: 100%;
-  height: 110%;
+  height: 100%;
   max-width: 142px;
   aspect-ratio: 1/1;
 }
